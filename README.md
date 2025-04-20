@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<!--
-**sophiah-chen/sophiah-chen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Sophia, and here is a little bit about me. 
 
 - 🔭 I’m currently working on completing my Bachelor of Science in Nursing and coursework to fulfill a Programming and Computation Certificate and a Minor in Statistics and Data Science at the University of Texas at Austin. 
 - 🌱 I’m currently learning data visualization, wrangling, and analysis using different models in R. I am also learning programming in Python.
