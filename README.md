@@ -10,4 +10,3 @@ My name is Sophia, and here is a little bit about me.
 - 📫 How to reach me: I can be reached through email at sophiac@utexas.edu.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I like to binge watch TV shows.
--->
